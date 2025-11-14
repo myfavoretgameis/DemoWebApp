@@ -1,3 +1,6 @@
 body {
   background-color: #c6ffc1;
 }
+body:hover {
+  background-color: #15ff00;
+}
